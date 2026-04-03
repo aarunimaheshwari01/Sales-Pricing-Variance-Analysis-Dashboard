@@ -15,9 +15,9 @@ End-to-end Power BI dashboard with SQL data layer for sales performance, pricing
 **Budget Variance**: Actual vs budget, variance by region/product
 
 ## Demo Screenshots
-![Overview][Sales Performance Overview.png]  
-![Pricing][Pricing and Commission Analysis.png]  
-![Budget Variance][Budget Variance Analysis.png]
+![Overview][screenshots/Sales Performance Overview.png]  
+![Pricing][screenshots/Pricing and Commission Analysis.png]  
+![Budget Variance][screenshots/Budget Variance Analysis.png]
 
 ## Setup
 1. Run SQL script to create database/views
