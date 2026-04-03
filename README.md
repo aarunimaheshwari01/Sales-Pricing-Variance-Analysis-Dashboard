@@ -15,7 +15,7 @@ End-to-end Power BI solution integrating SQL datasets to monitor pricing trends,
 **Budget Variance**: Actual vs budget, variance by region/product
 
 ## Demo Screenshots
-![Overview][./screenshots/Sales Performance Overview.png]  
+![Sales Performance Overview][./screenshots/Sales Performance Overview.png]  
 ![Pricing][./screenshots/Pricing and Commission Analysis.png]  
 ![Budget Variance][screenshots/Budget Variance Analysis.png]
 
