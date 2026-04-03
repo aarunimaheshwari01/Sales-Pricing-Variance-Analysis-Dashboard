@@ -1,6 +1,6 @@
 # Sales Pricing & Variance Analysis Dashboard
 
-End-to-end Power BI dashboard with SQL data layer for sales performance, pricing trends, and budget variance analysis. 
+End-to-end Power BI solution integrating SQL datasets to monitor pricing trends, sales KPIs, and budget variance across market segments. Standardized commission-impact metrics and automated data refresh.
 
 ## Features
 - 8,000 synthetic sales rows (2024-2025)
