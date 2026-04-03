@@ -11,8 +11,8 @@ End-to-end Power BI dashboard with SQL data layer for sales performance, pricing
 
 ## Pages
 **Overview**: KPI cards, regional/segment breakdowns, monthly trends
-\n**Pricing Analysis**: ASP trends, discount behavior, commission impact
-\n**Budget Variance**: Actual vs budget, variance by region/product
+**Pricing Analysis**: ASP trends, discount behavior, commission impact
+**Budget Variance**: Actual vs budget, variance by region/product
 
 ## Demo Screenshots
 ![Overview][Sales Performance Overview.png]
