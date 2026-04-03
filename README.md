@@ -15,14 +15,14 @@ End-to-end Power BI solution integrating SQL datasets to monitor pricing trends,
 **Budget Variance**: Actual vs budget, variance by region/product
 
 ## Demo Screenshots
-![Overview][screenshots/Sales Performance Overview.png]  
-![Pricing][screenshots/Pricing and Commission Analysis.png]  
-![Budget Variance][screenshots/Budget Variance Analysis.png]
+![Overview][./screenshots/Sales Performance Overview.png]  
+![Pricing][./screenshots/Pricing and Commission Analysis.png]  
+![Budget Variance][./screenshots/Budget Variance Analysis.png]
 
 ## SQL Validation Screenshots
-![Overview SQL][screenshots/Overview Validation.png]  
-![Pricing SQL][screenshots/Pricing Analysis Validation.png]  
-![Budget SQL][screenshots/Budget Variance Validation.png]
+![Overview SQL][./screenshots/Overview Validation.png]  
+![Pricing SQL][./screenshots/Pricing Analysis Validation.png]  
+![Budget SQL][./screenshots/Budget Variance Validation.png]
 
 ## Setup
 1. Run SQL script to create database/views
