@@ -20,9 +20,9 @@ End-to-end Power BI solution integrating SQL datasets to monitor pricing trends,
 ![Budget Variance](bva.png)
 
 ## SQL Validation Screenshots
-![Overview Validation](ov.png)  
-![Pricing SQL](pav.png)  
-![Budget SQL](bvv.png)
+![Overview Validation](ss/ov.png)  
+![Pricing SQL](ss/pav.png)  
+![Budget SQL](ss/bvv.png)
 
 ## Setup
 1. Run SQL script to create database/views
