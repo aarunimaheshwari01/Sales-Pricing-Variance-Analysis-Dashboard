@@ -19,6 +19,11 @@ End-to-end Power BI dashboard with SQL data layer for sales performance, pricing
 ![Pricing][screenshots/Pricing and Commission Analysis.png]  
 ![Budget Variance][screenshots/Budget Variance Analysis.png]
 
+## SQL Validation Screenshots
+![Overview SQL][screenshots/Overview Validation.png]  
+![Pricing SQL][screenshots/Pricing Analysis Validation.png]  
+![Budget SQL][screenshots/Budget Variance Validation.png]
+
 ## Setup
 1. Run SQL script to create database/views
 2. Connect Power BI to SQL Server
