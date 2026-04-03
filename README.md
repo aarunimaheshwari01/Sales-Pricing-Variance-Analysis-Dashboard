@@ -16,7 +16,7 @@ End-to-end Power BI solution integrating SQL datasets to monitor pricing trends,
 
 ## Demo Screenshots
 ![Sales Performance Overview][./spo.png]  
-![Pricing][./pca.png]  
+![pca][./pca.png]  
 [Budget Variance][bva.png]
 
 ## SQL Validation Screenshots
