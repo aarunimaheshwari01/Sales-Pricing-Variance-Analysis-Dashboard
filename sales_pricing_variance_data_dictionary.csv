@@ -1,0 +1,6 @@
+Field,Value
+Purpose,Synthetic sample dataset for Power BI Sales Pricing & Variance Analysis project
+Rows,8000
+Columns,28
+Coverage,2024-01-01 to 2025-12-31
+Notes,"Includes actual sales, budget values, pricing, discounts, commissions, and gross profit fields with realistic variation."
